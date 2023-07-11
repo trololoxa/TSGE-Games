@@ -1,5 +1,5 @@
 from random import uniform, choice
-from Engine.Core.Math import vec2
+from TSGEngine.Core.Math import vec2
 
 
 class BallComponent:

@@ -5,12 +5,12 @@ from TSGEngine import Main
 from TSGEngine.Object.entity import Circle, Rectangle
 
 # Systems
-from Assets.PlatformController import PlatformController
-from Assets.BallController import BallController
+from Pong.Assets.PlatformController import PlatformController
+from Pong.Assets.BallController import BallController
 
 # Components for systems
-from Assets.BallComponent import BallComponent
-from Assets.PlatformComponent import PlatformComponent
+from Pong.Assets.BallComponent import BallComponent
+from Pong.Assets.PlatformComponent import PlatformComponent
 from TSGEngine.Physics.Components.Colliders.RectangleCollider import RectangleCollider
 from TSGEngine.World.Components.Mesh import Mesh
 

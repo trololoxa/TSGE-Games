@@ -1,6 +1,6 @@
-from Engine.World import BaseSystem
+from TSGEngine.World import BaseSystem
 from Pong.Assets.BallComponent import BallComponent
-from Engine.Physics.Components.Colliders.RectangleCollider import RectangleCollider
+from TSGEngine.Physics.Components.Colliders.RectangleCollider import RectangleCollider
 
 
 class BallController(BaseSystem):
