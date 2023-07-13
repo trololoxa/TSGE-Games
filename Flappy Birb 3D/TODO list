@@ -1,0 +1,14 @@
+Roadmap:
+    3D
+    cube at constant place, but always falling
+    up-down movement with rigidbody gravity physics
+    platforms with holes generation
+    platform movement
+    infinite platform generation
+    randomized platform generation
+    event system
+    score
+
+Future Roadmap:
+    birb model
+    

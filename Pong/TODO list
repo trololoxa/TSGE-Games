@@ -1,0 +1,12 @@
+Roadmap:
+    Logger +
+    Entity creation +
+    Adding systems to world and components to objects +
+    Window +
+    Drawing +
+    Saving Entities in Scene +
+    Getting keyboard inputs +
+    adding tags to entity
+    Moving objects by key inputs (do this in assets folder) +
+    applying constant velocity to some object +
+    AABB overlap check +
